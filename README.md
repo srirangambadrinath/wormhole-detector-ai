@@ -18,7 +18,7 @@ This project presents a novel AI-based framework for detecting astrophysical ano
 
 
 
-\## 🧠 Model Architecture
+\## Model Architecture
 
 
 
@@ -60,7 +60,7 @@ Output Dense (Softmax)
 
 
 
-\## 🛰 Dataset
+\##  Dataset
 
 
 
